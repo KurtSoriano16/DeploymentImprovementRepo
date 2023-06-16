@@ -1,2 +1,3 @@
-Object1, Object2, Object3
-Objects1, Objects2, Objects3
+PreDeployment,PostDeployment,DeploymentProper
+disable_acquisition_transformation_configs,enable_acquisition_transformation_configs, Objects3
+
