@@ -1,4 +1,4 @@
-PreDeployment
-disable_acquisition_transformation_configs
-test
+PreDeployment,PostDeployment,Hotfix
+disable_acquisition_transformation_configs,enable_acquisition_transformation_configs,Test
+test,Test,Test
 
