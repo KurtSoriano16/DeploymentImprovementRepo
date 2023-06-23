@@ -1,4 +1,2 @@
-PreDeployment,PostDeployment,Hotfix
-disable_acquisition_transformation_configs,enable_acquisition_transformation_configs,Test
-test,Test,Test
-
+---
+EDW/Databases/edw/Scripts/Deployment Scripts/disable_acquisition_transformation_configs.sql
