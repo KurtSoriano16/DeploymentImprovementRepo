@@ -1,1 +1,2 @@
-
+EDW/Databases/edw_etl_control/Scripts/Post-Deployment%20Script/EBI-20393_Cleanup_for_GLString_agreement_skey_and_status_skey_ics.sql
+EDW/Databases/edw_etl_control/Scripts/Post-Deployment%20Script/EBI-20412_incremental_load_fact_payment_alloc_bow_funding.sql
