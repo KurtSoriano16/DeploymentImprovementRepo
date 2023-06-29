@@ -1,4 +1,4 @@
 EDW/Databases/edw_etl_control/Scripts/Post-Deployment%20Script/EBI-20412_update_transform_query_filter_payment_bow_funding.sql
 EDW/Databases/edw_etl_control/Scripts/Post-Deployment%20Script/EBI-20409 - Add default value to investment_score_rfctr - Not Scored.sql
 EDW/Databases/edw_etl_control/Scripts/Post-Deployment%20Script/EBI-19718_add_gender_integration_in_transform_config.sql
-EDW/Databases/edw/Scripts/Deployment Scripts/enable_dataset_configuration.sql
+EDW/Databases/edw/Scripts/Deployment Scripts/enable_acquisition_transformation_configs.sql
